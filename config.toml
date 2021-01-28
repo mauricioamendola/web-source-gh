@@ -55,7 +55,7 @@ use = "katex"  # options: "katex", "mathjax". default is "katex".
 [[params.socialIcons]]
 icon = "fab fa-linkedin"
 title = "Linkedin"
-url = "https://linkedin.com/mauricioamendola"
+url = "https://www.linkedin.com/in/mauricioamendola/"
 
 [[params.socialIcons]]
 icon = "fab fa-github"
@@ -89,9 +89,9 @@ url = "mailto:mauricio@linux.com.uy"
   url = "/post/"
 
   [[menu.main]]
-  name = "About"
+  name = "Profile"
   weight = 300
-  identifier = "about"
+  identifier = "profile"
   url = "/about/"
 
   [[menu.main]]
