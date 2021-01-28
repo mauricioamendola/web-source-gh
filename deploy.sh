@@ -15,6 +15,7 @@ msg="rebuilding site `date`"
 if [ $# -eq 1 ]
   then msg="$1"
 fi
+git pull
 git commit -m "$msg"
 
 # Push source and build repos.
