@@ -2,7 +2,7 @@
 title: "Proyecto de Web"
 date: 2021-01-28T00:13:54-03:00
 Description: ""
-Tags: []
+Tags: ["misc", "intro"]
 Categories: []
 DisableComments: false
 ---
