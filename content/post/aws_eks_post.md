@@ -7,4 +7,6 @@ Categories: []
 DisableComments: false
 ---
 
-### Desplegando EKS con Terraform - Parte 1
+### Desplegando EKS con Terraform - Parte 2
+
+
