@@ -21,5 +21,8 @@ Además...
 * AWS 
 * RedHat Openshift
 
+### Acreditaciones
+
+* Red Hat Delivery Specialist - 3Scale API Management
 
 
